@@ -370,3 +370,4 @@ void liberarMemoria(Territorio* mapa, char* missaoP1) {
         free(missaoP1);
     }
 }
+
